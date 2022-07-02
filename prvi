@@ -1,0 +1,4 @@
+git remote add origin https://github.com/frankob2806/MrezProg.git
+git config –-global user.name Franko Biliskov
+git config –-global user.email frankobiliskov@gmail.com
+git config –-global core.editor "'putanja do exe' -multiInst -nosession"
